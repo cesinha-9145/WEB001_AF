@@ -1,0 +1,16 @@
+COMANDOS DE CRIAÇÃO DE REPOSITÓRIO
+criar pasta
+git Bash Here
+git clone https://github.com/cesinha-9145/WEB001_AF.git
+cd_WEB001_AF
+
+COMANDOS DE ARQUIVOS
+ git add "nome.txt"
+ git add "comandos.txt"
+
+
+
+ENVIO DE ALTERAÇÕES
+ git commit -m "prova final"
+ git push origin master
+ git pull
